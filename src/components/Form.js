@@ -116,7 +116,7 @@ const Form = ({ formId, petForm, forNewPet = true }) => {
           required
         />
 
-        <label htmlFor="owner_name">Owner</label>
+        <label htmlFor="owner_name">Dueño/a:</label>
         <input
           type="text"
           maxLength="20"
